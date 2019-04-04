@@ -84,7 +84,7 @@ Specifies the RGB color.
 | **rgbLemonChiffon**|13499135|Lemon Chiffon|
 | **rgbLightBlue**|15128749|Light Blue|
 | **rgbLightCoral**|8421616|Light Coral|
-| **rgbLightCyan**|9145088|Light Cyan|
+| **rgbLightCyan**|16777184|Light Cyan|
 | **rgbLightGoldenrodYellow**|13826810|LightGoldenrodYellow|
 | **rgbLightGray**|13882323|Light Gray|
 | **rgbLightGreen**|9498256|Light Green|
@@ -100,7 +100,7 @@ Specifies the RGB color.
 | **rgbLimeGreen**|3329330|Lime Green|
 | **rgbLinen**|15134970|Linen|
 | **rgbMaroon**|128|Maroon|
-| **rgbMediumAquamarine**|11206502|Medium Aquamarine|
+| **rgbMediumAquamarine**|11193702|Medium Aquamarine|
 | **rgbMediumBlue**|13434880|Medium Blue|
 | **rgbMediumOrchid**|13850042|Medium Orchid|
 | **rgbMediumPurple**|14381203|Medium Purple|
