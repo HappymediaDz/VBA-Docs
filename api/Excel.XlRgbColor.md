@@ -122,7 +122,7 @@ Specifies the RGB color.
 | **rgbOrange**|42495|Orange|
 | **rgbOrangeRed**|17919|Orange Red|
 | **rgbOrchid**|14053594|Orchid|
-| **rgbPaleGoldenrod**|7071982|Pale Goldenrod|
+| **rgbPaleGoldenrod**|11200750|Pale Goldenrod|
 | **rgbPaleGreen**|10025880|Pale Green|
 | **rgbPaleTurquoise**|15658671|Pale Turquoise|
 | **rgbPaleVioletRed**|9662683|Pale Violet Red|
